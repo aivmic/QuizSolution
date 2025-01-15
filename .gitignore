@@ -1,0 +1,10 @@
+# .NET ignore
+bin/
+obj/
+*.dll
+*.pdb
+
+# Node/React ignore
+node_modules/
+build/
+.env
