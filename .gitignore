@@ -1,12 +1,14 @@
 # .NET ignore
 QuizApp/bin/
 QuizApp/obj/
+QuizApp/.idea/
 *.dll
 *.pdb
 
 
 QuizApp.Tests/bin/
 QuizApp.Tests/obj/
+QuizApp.Tests/.idea/
 
 # Node/React ignore
 quiz-client/node_modules/
