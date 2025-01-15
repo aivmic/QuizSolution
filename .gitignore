@@ -4,6 +4,10 @@ QuizApp/obj/
 *.dll
 *.pdb
 
+
+QuizApp.Tests/bin/
+QuizApp.Tests/obj/
+
 # Node/React ignore
 quiz-client/node_modules/
 quiz-client/build/
