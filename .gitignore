@@ -1,10 +1,10 @@
 # .NET ignore
-bin/
-obj/
+QuizApp/bin/
+QuizApp/obj/
 *.dll
 *.pdb
 
 # Node/React ignore
-node_modules/
-build/
-.env
+quiz-client/node_modules/
+quiz-client/build/
+quiz-client/.env
