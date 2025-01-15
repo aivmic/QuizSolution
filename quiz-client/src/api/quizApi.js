@@ -1,5 +1,5 @@
 // only for learning purposes
-const BASE_URL = "https://localhost:7238/api/v1";
+const BASE_URL = "http://localhost:5109/api/v1";
 
 export async function fetchQuestions() {
     const response = await fetch(`${BASE_URL}/questions`);
