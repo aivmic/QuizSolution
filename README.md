@@ -37,6 +37,8 @@ dotnet run
 
 ## cd quiz-client
 
+make sure to change backend api localhost port
+
 npm install
 
 npm start
